@@ -1,0 +1,14 @@
+# Generated figures and analysis results
+results/
+*.asv
+*.m~
+*.autosave
+*.mat
+
+# Editor, OS, and temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
